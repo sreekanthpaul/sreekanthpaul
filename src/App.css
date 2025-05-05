@@ -4,7 +4,20 @@
   padding: 2rem;
   text-align: center;
 }
+/* App.css */
 
+.site-layout-background {
+  background: #fff;
+}
+
+.site-layout .ant-layout-header {
+  background: #001529;
+  color: white;
+}
+
+.ant-menu-dark .ant-menu-item-selected {
+  background-color: #1890ff;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
